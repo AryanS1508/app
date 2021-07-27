@@ -2,7 +2,7 @@
   "name": "reactlive",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AryanS1508.github.io/app",
+  "homepage": "https://aryans1508.github.io/app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
